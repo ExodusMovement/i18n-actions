@@ -1,0 +1,19 @@
+{
+  "context": {
+    "payload": {
+      "pull_request": {
+        "title": "feat: dummy PR",
+        "number": 1002,
+        "url": "https://github.com/ExodusMovement/exodus-browser/pull/1002",
+        "body": "##",
+        "merged": false,
+        "draft": false
+      },
+      "action": "closed"
+    },
+    "repo": {
+      "owner": "Someone",
+      "repo": "exodus-browser"
+    }
+  }
+}
