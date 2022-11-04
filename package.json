@@ -1,0 +1,21 @@
+{
+  "name": "i18n-actions",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExodusMovement/i18n-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExodusMovement/i18n-actions/issues"
+  },
+  "homepage": "https://github.com/ExodusMovement/i18n-actions#readme"
+}
